@@ -1,6 +1,6 @@
 # BrazilianUtilsQt
 
-Inspired by [brazilian-utils](https://github.com/brazilian-utils/brazilian-utilshttp:// "brazilian-utils"). Boleto validator algorithm by: [boleto-brasileiro-validator](https://github.com/mcrvaz/boleto-brasileiro-validator "boleto-brasileiro-validator")
+Inspired by [brazilian-utils](https://github.com/brazilian-utils/brazilian-utils "brazilian-utils"). Boleto validator algorithm by: [boleto-brasileiro-validator](https://github.com/mcrvaz/boleto-brasileiro-validator "boleto-brasileiro-validator")
 ### Features
 * CPF validator
 * CNPJ validator
