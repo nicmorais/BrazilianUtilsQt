@@ -30,6 +30,7 @@ public:
 class Block
 {
 public:
+    Block() {}
     Block(QString number, QString checkDigit){
         this->number = number;
         this->checkDigit = checkDigit;
